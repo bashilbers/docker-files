@@ -1,1 +1,1 @@
-docker build --rm -t bas/composer .
+docker build --rm -t bas/composer $(dirname $0)

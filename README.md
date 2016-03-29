@@ -4,4 +4,4 @@
 `./data-containers.sh`
 
 - Symlink the executable
-`ln -s $PWD/docker-run.sh /usr/local/bin/composer`
+`ln -s $(pwd)/docker-run.sh /usr/local/bin/composer`
