@@ -1,7 +1,3 @@
-# composer-as-a-container-service
+# docker-files
 
-- Make sure we have composer-data and ssh-data containers: 
-`./data-containers.sh`
-
-- Symlink the executable
-`ln -s $(pwd)/docker-run.sh /usr/local/bin/composer`
+A repo for images that I create
